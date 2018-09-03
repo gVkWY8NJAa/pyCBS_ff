@@ -11,6 +11,12 @@ cd pyCBS_ff
 pip install -r requirements.txt
 ```
 
+## Testing
+```
+cd pyCBS_ff
+python3.6 -m pytest tests/
+```
+
 ## Usage
 
 import module
